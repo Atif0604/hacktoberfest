@@ -1,5 +1,5 @@
 # Hacktoberfest 2020
-Hacktoberfest 2020 website for KIIT FOSS/OSH community.
+This website is for Hacktoberfest 2020 which is owned by KIIT FOSS/OSH community.
 
 ## License
 
